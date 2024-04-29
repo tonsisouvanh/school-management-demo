@@ -1,0 +1,21 @@
+{
+  "AddButton": "Add",
+  "Login": {
+    "headline": "Welcome!",
+    "subline": "Login to access your account and start exploring our amazing features!",
+    "btnLogin": "Login",
+    "labelEmail": "Email",
+    "labelPassword": "Password"
+  },
+  "AnnouncePage": {
+    "announceHeader": "Announcement",
+    "announceLeftNoti": "Announce"
+  },
+  "Sidebar": {
+    "menu": {
+      "headline": "Students",
+      "sublineOne": "Summary",
+      "sublineTwo": "ລາຍຊື່ນັກຮຽນ"
+    }
+  }
+}
